@@ -1,3 +1,5 @@
+import api
+
 def main():
     """
     The primary execution logic of the application goes here.
