@@ -9,3 +9,6 @@ def search_anime(text=None,
  # anime objects ??
  # apply filters to anime objects 
  # return info after filter
+
+#genre match mode
+#theme match mode
