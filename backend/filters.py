@@ -1,4 +1,5 @@
 #ilter logic 
+import requests 
 
 '''If genres is None → return list
 
@@ -14,3 +15,13 @@ keep anime if all selected genres are present
 
  #filter_by_genres(anime_list, genres, genre_match_mode)
  #filter_by_themes(anime_list, themes, theme_match_mode)
+
+#genre = []
+#if genre == input: 
+ #   print("yes")
+
+    # for each show in database 
+    # check if genre matches
+    # then continue for theme , year, season, name
+
+
