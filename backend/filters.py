@@ -22,6 +22,6 @@ keep anime if all selected genres are present
 
     # for each show in database 
     # check if genre matches
-    # then continue for theme , year, season, name
+    # same for theme , year, season, name
 
 
