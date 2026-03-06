@@ -2,7 +2,7 @@ import api
 
 def main():
     """
-    The primary execution logic of the application goes here.
+    The primary execution logic goes here.
     """
     print("Application starting...")
     # Call other core functions here
