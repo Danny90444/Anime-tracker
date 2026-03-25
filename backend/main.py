@@ -1,4 +1,4 @@
-import api
+from api import fetch_anime
 
 def main():
     """
@@ -6,8 +6,7 @@ def main():
     """
     print("Application starting...")
     # Call other core functions here
-    ...
-
+   
 if __name__ == "__main__":
     # This block ensures the main() function runs only when
     # the script is executed directly, not when imported as a module.
